@@ -1,0 +1,13 @@
+.show-nav-drawer {
+  .drawer-s {
+    top: 0px;
+    transition: top 0.3s;
+  }
+}
+
+.hide-nav-drawer {
+  .drawer-s {
+    top: -100%;
+    transition: top 0.7s;
+  }
+}
